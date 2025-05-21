@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Gingercat1006/world-foods-app.git/static/css/main.5ee995db.css",
-    "main.js": "/Gingercat1006/world-foods-app.git/static/js/main.03bc7a4a.js",
-    "static/js/453.929e3ede.chunk.js": "/Gingercat1006/world-foods-app.git/static/js/453.929e3ede.chunk.js",
-    "index.html": "/Gingercat1006/world-foods-app.git/index.html",
-    "main.5ee995db.css.map": "/Gingercat1006/world-foods-app.git/static/css/main.5ee995db.css.map",
-    "main.03bc7a4a.js.map": "/Gingercat1006/world-foods-app.git/static/js/main.03bc7a4a.js.map",
-    "453.929e3ede.chunk.js.map": "/Gingercat1006/world-foods-app.git/static/js/453.929e3ede.chunk.js.map"
+    "main.css": "/world-foods-app/static/css/main.5ee995db.css",
+    "main.js": "/world-foods-app/static/js/main.5b270580.js",
+    "static/js/453.929e3ede.chunk.js": "/world-foods-app/static/js/453.929e3ede.chunk.js",
+    "index.html": "/world-foods-app/index.html",
+    "main.5ee995db.css.map": "/world-foods-app/static/css/main.5ee995db.css.map",
+    "main.5b270580.js.map": "/world-foods-app/static/js/main.5b270580.js.map",
+    "453.929e3ede.chunk.js.map": "/world-foods-app/static/js/453.929e3ede.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ee995db.css",
-    "static/js/main.03bc7a4a.js"
+    "static/js/main.5b270580.js"
   ]
 }
